@@ -16,6 +16,11 @@
     text-decoration: none;
 }
 
+.hidden {
+    visibility: hidden;
+    height: 0;
+}
+
 body {
     font-family: Arial, Helvetica, sans-serif;
     color: var(--text-color);
